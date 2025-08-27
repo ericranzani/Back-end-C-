@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Curso dotnet DIO\\Fundamentos\\Fundamentos.csproj",
+      "projectUniqueName": "E:\\Back-end-C-\\Fundamentos\\Fundamentos.csproj",
       "projectName": "Fundamentos",
-      "projectPath": "E:\\Curso dotnet DIO\\Fundamentos\\Fundamentos.csproj",
+      "projectPath": "E:\\Back-end-C-\\Fundamentos\\Fundamentos.csproj",
       "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-      "outputPath": "E:\\Curso dotnet DIO\\Fundamentos\\obj\\",
+      "outputPath": "E:\\Back-end-C-\\Fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config"

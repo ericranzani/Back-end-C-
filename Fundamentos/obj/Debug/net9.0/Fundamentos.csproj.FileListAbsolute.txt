@@ -12,3 +12,18 @@ E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\refint\Fundamentos.dll
 E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\Fundamentos.pdb
 E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\Fundamentos.genruntimeconfig.cache
 E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\ref\Fundamentos.dll
+E:\Back-end-C-\Fundamentos\bin\Debug\net9.0\Fundamentos.exe
+E:\Back-end-C-\Fundamentos\bin\Debug\net9.0\Fundamentos.deps.json
+E:\Back-end-C-\Fundamentos\bin\Debug\net9.0\Fundamentos.runtimeconfig.json
+E:\Back-end-C-\Fundamentos\bin\Debug\net9.0\Fundamentos.dll
+E:\Back-end-C-\Fundamentos\bin\Debug\net9.0\Fundamentos.pdb
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\Fundamentos.AssemblyInfoInputs.cache
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\Fundamentos.AssemblyInfo.cs
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\Fundamentos.csproj.CoreCompileInputs.cache
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\Fundamentos.sourcelink.json
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\Fundamentos.dll
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\refint\Fundamentos.dll
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\Fundamentos.pdb
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\Fundamentos.genruntimeconfig.cache
+E:\Back-end-C-\Fundamentos\obj\Debug\net9.0\ref\Fundamentos.dll
