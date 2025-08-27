@@ -1,0 +1,14 @@
+E:\Curso dotnet DIO\Fundamentos\bin\Debug\net9.0\Fundamentos.exe
+E:\Curso dotnet DIO\Fundamentos\bin\Debug\net9.0\Fundamentos.deps.json
+E:\Curso dotnet DIO\Fundamentos\bin\Debug\net9.0\Fundamentos.runtimeconfig.json
+E:\Curso dotnet DIO\Fundamentos\bin\Debug\net9.0\Fundamentos.dll
+E:\Curso dotnet DIO\Fundamentos\bin\Debug\net9.0\Fundamentos.pdb
+E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\Fundamentos.AssemblyInfoInputs.cache
+E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\Fundamentos.AssemblyInfo.cs
+E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\Fundamentos.csproj.CoreCompileInputs.cache
+E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\Fundamentos.dll
+E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\refint\Fundamentos.dll
+E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\Fundamentos.pdb
+E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\Fundamentos.genruntimeconfig.cache
+E:\Curso dotnet DIO\Fundamentos\obj\Debug\net9.0\ref\Fundamentos.dll
