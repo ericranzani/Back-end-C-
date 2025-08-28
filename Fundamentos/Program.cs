@@ -1,7 +1,13 @@
 ﻿using Fundamentos.Models;
 
-Pessoa p = new Pessoa();
+DateTime dataAtual = DateTime.Now;
+Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
 
-p.Nome = "Eric";
-p.Idade = 30;
-p.Apresentar();
+
+
+
+// Pessoa p = new Pessoa();
+
+// p.Nome = "Eric";
+// p.Idade = 30;
+// p.Apresentar();
