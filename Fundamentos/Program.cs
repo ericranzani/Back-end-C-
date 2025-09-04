@@ -1,7 +1,7 @@
 ﻿using Fundamentos.Models;
 
 DateTime dataAtual = DateTime.Now;
-Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
+Console.WriteLine(dataAtual);
 
 
 
